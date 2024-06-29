@@ -1,3 +1,3 @@
-# **MARKDOWN NOTES**
+# *MARKDOWN NOTES*
 
-#### * **Cat Command**
+#### * ***Cat Command***
