@@ -39,3 +39,7 @@ Lorem ipsum dolor sit amet, *consectetur* adipiscing elit, sed do eiusmod tempor
     - hi
     - first
 - second
+
+~~~
+Look! you can see my blackticks
+~~~
