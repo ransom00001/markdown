@@ -27,3 +27,9 @@ Lorem ipsum dolor sit amet, *consectetur* adipiscing elit, sed do eiusmod tempor
 > - this is a point
 >   
 > Everything is going according to plan.
+
+1. point
+2. point
+    1. Lorem
+    2. Lorem
+3. salt
