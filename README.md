@@ -19,4 +19,11 @@ Lorem ipsum dolor sit amet, *consectetur* adipiscing elit, sed do eiusmod tempor
 2. Lorem
     1. sugar
         1. ghee
-3. dolor
+3. dolore
+   
+> Lorem ipsum dolor sit amet, *consectetur* adipiscing elit,
+>
+> - this is a point
+> - this is a point
+>   
+> Everything is going according to plan.
