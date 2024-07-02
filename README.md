@@ -56,4 +56,4 @@ markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ~~~
 
-![](https://www.google.com/imgres?q=linux&imgurl=https%3A%2F%2Fwww.unixmen.com%2Fwp-content%2Fuploads%2F2014%2F02%2Flinux.png&imgrefurl=https%3A%2F%2Fwww.unixmen.com%2Fput-linux-computer%2F&docid=oaZKz1mRi504ZM&tbnid=uJvclOdYjwENVM&vet=12ahUKEwjNiYPfw4iHAxWMoa8BHcMxDewQM3oFCIABEAA..i&w=1920&h=1200&hcb=2&ved=2ahUKEwjNiYPfw4iHAxWMoa8BHcMxDewQM3oFCIABEAA)
+![]()
